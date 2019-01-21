@@ -1,0 +1,25 @@
+div.flag {
+    width: 1000px;
+    height: 300px;
+}
+
+div.strip {
+    height: 130px;
+}
+
+div.saffron {
+    background: #ff9a2f;
+}
+
+div.white {
+    background: #ffffff;
+    padding-left: 27em;
+}
+
+div.green {
+    background: #0a8901;
+}
+
+img.ashoka-chakra {
+    width: 130px;
+}
