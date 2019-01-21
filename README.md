@@ -10,8 +10,8 @@ Didn't have any other ideas to test my HTML and CSS knowledege
 * Ashoka Image (for the Indian Flag)
 
 ## Flags Implemented
-* US Flag
-* Indian Flag
+* US Flag ([Check it out here](https://surajpulloor.github.io/flags/us-flag/index.html))
+* Indian Flag ([Check it out here](https://surajpulloor.github.io/flags/indian-flag/index.html))
 
 # TODO Flags
 * UK Flag
